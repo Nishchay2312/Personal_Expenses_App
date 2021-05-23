@@ -10,7 +10,9 @@ Features:
 
 # Demo
 
-![image](https://user-images.githubusercontent.com/57430524/119263950-0c002200-bc46-11eb-99d6-803195f3b211.png)
+![gif](https://user-images.githubusercontent.com/57430524/119264152-cc860580-bc46-11eb-8e92-9986152d0e7d.gif)
+
+![image](https://user-images.githubusercontent.com/57430524/119264051-7add7b00-bc46-11eb-9de4-64d1c7a75836.png)
 
 
 ## Getting Started
